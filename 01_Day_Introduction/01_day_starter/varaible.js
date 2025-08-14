@@ -1,3 +1,4 @@
+// Completed by Damany Bailey <damanybailey@icloud.com> on 2025-08-07T19:27:40Z
 // Declaring different variables of different data types
 
 let firstName = 'Asabeneh'    // first name of a person
